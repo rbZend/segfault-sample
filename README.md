@@ -1,6 +1,8 @@
 # segfault-sample
+```bash
 composer install
 ./vendor/bin/phpunit
+```
 
 ```
 $ ./vendor/bin/phpunit 
