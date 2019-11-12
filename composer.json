@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ext-mbstring": "*",
+        "php": "^7.2",
+        "zendframework/zend-session": "^2.9",
+        "phpunit/phpunit": "^8.4"
+    }
+}
